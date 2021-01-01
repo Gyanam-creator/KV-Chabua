@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+  background-image: linear-gradient(#2193b0,#6dd5ed)
+}
+#myCarousel {
+    background-color: red;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top:35px;
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 20px;
+    border-color: #669999;
+    
+}
+
